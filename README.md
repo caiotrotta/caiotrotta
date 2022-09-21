@@ -1,6 +1,6 @@
 ### Olá, eu sou o Caio Machado
 
-- 🔭 Estudante de Programação no Senac RJ
+- 🔭  Estudante de Programação no Senac RJ
 - 📩 contatotrotta@gmail.com
 
 <div align="center">
