@@ -1,7 +1,7 @@
 ### Olá, eu sou o Caio Machado
 
 - 🔭  Estudante de Programação no Senac RJ
-- 📩 contatotrotta@gmail.com
+- 📩  contatotrotta@gmail.com
 
 <div align="center">
   <a href="https://github.com/caiotrotta">
